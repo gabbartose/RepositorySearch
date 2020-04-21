@@ -14,7 +14,6 @@ class RepositoryMasterViewController: UITableViewController {
     }
 
     let identifier: "RepositoryCell"
-    let created
 
     override func viewDidLoad() {
         super.viewDidLoad()
